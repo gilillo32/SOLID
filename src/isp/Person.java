@@ -1,4 +1,4 @@
-package ISP;
+package isp;
 
 public class Person implements InterfaceEmail, InterfacePhone{
     String name, address, email, telephone;

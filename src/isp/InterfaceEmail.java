@@ -1,4 +1,4 @@
-package ISP;
+package isp;
 
 public interface InterfaceEmail {
 
